@@ -1,0 +1,7 @@
+{
+  "name": "Asistente Escolar",
+  "description": "Asistente escolar integral con horario inteligente (hoy y mañana), tareas y notas, calendario interactivo con alertas, sincronización en la nube, autenticación biométrica y tutor IA personalizado en modo oscuro Liquid Glass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
